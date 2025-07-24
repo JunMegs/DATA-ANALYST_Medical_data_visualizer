@@ -1,0 +1,3 @@
+This project, completed as part of the freeCodeCamp Data Analysis with Python Certification, involves visualizing and analyzing medical examination data using Pandas, Matplotlib, and Seaborn. The dataset includes patient information such as body measurements, blood test results, and lifestyle choices. The objective is to explore the relationship between cardiovascular disease and factors like BMI, cholesterol, glucose levels, and lifestyle habits through data processing and visual representation.
+
+link: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
